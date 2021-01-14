@@ -1,1 +1,1 @@
-A Notes sharing website using React JS, Node.js and Firebase.
+A Notes sharing web project using React JS, Node.js and Firebase.
